@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefave",
+        "uuid": 1274592,
+        "checksum": "syuulb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
